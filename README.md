@@ -1,2 +1,34 @@
-# CyberSecurity-Forensics-Lab
-A specialized portfolio showcasing hands-on experience in Digital Forensics, Malware Analysis, and Network Security. This repository contains detailed forensic investigations including GPT partition analysis, disk imaging, and network traffic dissection using Wireshark.
+# Cyber Security & Digital Forensics Lab
+
+This repository contains my practical work in digital forensics, malware analysis, and network security.
+
+## 🔍 Digital Forensics
+- Forensic Disk Imaging & Evidence Acquisition  
+- Deleted File Recovery & Timeline Analysis  
+- Digital Evidence Investigation  
+
+## 🦠 Malware Analysis
+- File Hashing & VirusTotal Detection  
+- Malware Obfuscation & Crypter Techniques  
+
+## 🌐 Network Analysis
+- Network Traffic Analysis using Wireshark  
+- Infected Host Identification  
+- DHCP Attack Analysis  
+
+## 🔐 Additional Work
+- Secure Data Transfer using Netcat  
+- AES-256 Image Steganography  
+- PowerShell Process Analysis  
+
+## 🛠 Tools Used
+- Autopsy  
+- Wireshark  
+- VirusTotal  
+- HxD  
+
+## 🎯 Objective
+To develop practical expertise in cybercrime investigation, digital evidence handling, and malware analysis aligned with real-world forensic practices.
+
+## 👩‍💻 Author
+Amara Afzal
