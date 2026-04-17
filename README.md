@@ -1,47 +1,63 @@
-# Cyber Security & Digital Forensics Lab
+# Cyber Security and Digital Forensics Lab
 
-This repository contains my practical work in digital forensics, malware analysis, and network security.
+This repository contains my practical work and laboratory tasks related to cyber security, digital forensics, malware analysis, and network investigation. The purpose of this repository is to demonstrate hands-on experience and understanding of real-world cybercrime investigation techniques.
 
-## 🔍 Digital Forensics
-- Forensic Disk Imaging & Evidence Acquisition  
-- Deleted File Recovery & Timeline Analysis  
-- Digital Evidence Investigation  
+## Overview
 
-## 🦠 Malware Analysis
-- File Hashing & VirusTotal Detection  
-- Malware Obfuscation & Crypter Techniques  
+The work included in this repository reflects practical exposure to digital evidence handling, forensic analysis, malware investigation, and network traffic analysis. Each task is documented in the form of detailed reports.
 
-## 🌐 Network Analysis
+## Project Structure
+
+### Digital Forensics
+- Disk Imaging and Evidence Acquisition  
+- Deleted File Recovery Techniques  
+- Digital Evidence Analysis  
+- Timeline and Artifact Examination  
+
+### Malware Analysis
+- Static Analysis of Suspicious Files  
+- File Hashing and Threat Detection  
+- Malware Obfuscation Techniques  
+- VirusTotal Investigation Reports  
+
+### Network Analysis
 - Network Traffic Analysis using Wireshark  
-- Infected Host Identification  
-- DHCP Attack Analysis  
+- Identification of Suspicious Network Activity  
+- DHCP and Network Attack Analysis  
 
-## 🔐 Additional Work
+### Additional Security Tasks
 - Secure Data Transfer using Netcat  
-- AES-256 Image Steganography  
-- PowerShell Process Analysis  
+- Image Steganography using AES-256  
+- PowerShell Process and System Analysis  
 
-## 🛠 Tools Used
+## Tools and Technologies
+
 - Autopsy  
 - Wireshark  
 - VirusTotal  
-- HxD  
-## 📂 Project Structure
+- HxD Hex Editor  
+- Netcat  
+- PowerShell  
 
-### 🔍 Digital Forensics
-- DF_01_Disk_Imaging
-- DF_02_File_Recovery
-- DF_03_Evidence_Acquisition
+## Learning Outcomes
 
-### 🦠 Malware Analysis
-- MA_01_VirusTotal_Report
-- MA_02_Obfuscation
+Through these tasks, I have developed:
+- Understanding of digital forensic investigation processes  
+- Ability to analyze and interpret digital evidence  
+- Basic skills in malware identification and analysis  
+- Knowledge of network traffic monitoring and attack detection  
+- Experience in using industry-relevant forensic tools  
 
-### 🌐 Network Analysis
-- NA_01_Wireshark_Analysis
-- NA_02_DHCP_Attack
-## 🎯 Objective
-To develop practical expertise in cybercrime investigation, digital evidence handling, and malware analysis aligned with real-world forensic practices.
+## Objective
 
-## 👩‍💻 Author
+The primary objective of this work is to build a strong foundation in cybercrime investigation and digital forensics, with a focus on practical skills aligned with real-world applications.
+
+## Future Work
+
+- Development of a Digital Forensics Evidence Analyzer  
+- AI-based Image and Video Manipulation Detection System  
+- Advanced Malware Behavior Analysis Lab  
+
+## Author
+
 Amara Afzal
